@@ -1,0 +1,18 @@
+export const company = {
+  name: "Summit Climate Solutions",
+  tagline: "Precision HVAC. Total Comfort.",
+  phone: "(555) 820-4400",
+  phoneHref: "tel:5558204400",
+  email: "hello@summitclimate.com",
+  address: "1284 Ridgeline Dr, Denver, CO 80202",
+  city: "Denver",
+  state: "CO",
+  serviceAreas: ["Denver", "Aurora", "Lakewood", "Arvada", "Westminster", "Thornton", "Englewood", "Littleton", "Highlands Ranch", "Parker"],
+  license: "HVAC Lic. #CO-2847193",
+  founded: "2009",
+  reviewCount: "847",
+  rating: "4.9",
+  yearsExperience: "15+",
+  calUrl: "https://cal.com/summitclimate/appointment",
+  formspreeId: "xredrdoq",
+}
